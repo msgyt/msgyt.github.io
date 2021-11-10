@@ -1,0 +1,1 @@
+Directory where the dot pvp singleplayer files are stored
